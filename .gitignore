@@ -22,7 +22,3 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
-
-# for more clear diffs - not usefull for real vue.js projects
-# cf. https://docs.npmjs.com/files/package-lock.json
-package-lock.json

@@ -5,6 +5,8 @@ Check out the commit diffs.
 
 ## vue-cli
 
+[@vue-cli@3.1.3](https://github.com/vuejs/vue-cli/releases/tag/%40vue%2Fcli%403.1.3)
+
 * [vue-cli](https://cli.vuejs.org/)
 * [vue-cli packages](https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue)
 
