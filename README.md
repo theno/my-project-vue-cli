@@ -48,6 +48,10 @@ Set up project from default preset, with plugins / packages:
 
 * [pwa](https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa)
 
+### 9. TypeScript
+
+* [typescript](https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/eslint-config-typescript)
+
 
 ---
 
